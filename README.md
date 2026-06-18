@@ -1,6 +1,5 @@
 # NegaPico | PICO-8用カスタムフォント「ネガピコ」
-<img width="256" height="256" alt="NegaPico_x2" src="https://github.com/user-attachments/assets/3960bfbb-5b0e-4b29-a020-142da0a6b2f2" />
-
+<img width="600" height="300" alt="NegaPico_x4" src="https://github.com/user-attachments/assets/65ad0635-9959-4185-a1bd-52aad85e318f" />
 
 ## 概要
 NegaPico（ネガピコ）は [x5y8pxNegaTape](https://github.com/hicchicc/x5y8pxNegaTape) を元に作成したPICO-8用カスタムフォントです。PICO-8のテキスト表現にご活用下さい！
