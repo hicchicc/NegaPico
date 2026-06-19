@@ -18,6 +18,7 @@ NegaPico（ネガピコ）は [x5y8pxNegaTape](https://github.com/hicchicc/x5y8p
 ```
 Custom Font: NegaPico
 Copyright 2026 The NegaPico Project Authors (https://github.com/hicchicc/NegaPico)
+Copyright 2026 The x5y8pxNegaTape Project Authors (https://github.com/hicchicc/x5y8pxNegaTape)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is available with a FAQ at: https://openfontlicense.org
